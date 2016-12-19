@@ -1,0 +1,22 @@
+{
+  "name": "simmerer/ninja-forms",
+  "description": "Ninja Forms is a form creation framework for WordPress.",
+  "keywords": ["wordpress", "batc", "boss"],
+  "license": "GPL-2.0+",
+  "version": "3.0.19",
+  "authors": [],
+
+  "type": "wordpress-plugin",
+
+  "repositories":[
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:simmerer/ninja-forms.git"
+    }
+  ],
+
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "~1.0"
+  }
+}
